@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="entity" />
+        <module name="serviceimpl" />
+        <module name="repositoryimpl" />
+        <module name="API" />
+        <module name="exceptions" />
+        <module name="controller" />
+        <module name="dto" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="API" target="11" />
+      <module name="controller" target="11" />
+      <module name="dto" target="11" />
+      <module name="entity" target="11" />
+      <module name="exceptions" target="11" />
+      <module name="hotel" target="11" />
+      <module name="main" target="11" />
+      <module name="repositoryimpl" target="11" />
+      <module name="serviceimpl" target="11" />
+      <module name="spring.framework" target="11" />
+      <module name="utils" target="11" />
+      <module name="viewUI" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

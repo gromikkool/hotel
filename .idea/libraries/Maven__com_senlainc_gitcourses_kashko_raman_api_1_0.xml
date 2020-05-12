@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.senlainc.gitcourses.kashko.raman:api:1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/senlainc/gitcourses/kashko/raman/API/1.0/API-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/senlainc/gitcourses/kashko/raman/api/1.0/api-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/senlainc/gitcourses/kashko/raman/api/1.0/api-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

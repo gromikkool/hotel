@@ -1,0 +1,4 @@
+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ì½ğÿÿÿÿÿ
+Csquid:S1481",Remove this unused "userDir" local variable.(•ïÔ
+Osquid:S1172"3Remove this unused method parameter "relativePath".(ñ‹Õšøÿÿÿÿ

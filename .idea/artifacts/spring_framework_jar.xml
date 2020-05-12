@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="spring.framework:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring_framework_jar</output-path>
+    <root id="archive" name="spring.framework.jar">
+      <element id="module-output" name="spring.framework" />
+    </root>
+  </artifact>
+</component>

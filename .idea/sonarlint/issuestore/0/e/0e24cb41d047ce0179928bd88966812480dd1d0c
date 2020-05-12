@@ -1,0 +1,13 @@
+
+Tsquid:S2696"6Make the enclosing method "static" or remove this set.(Ûכקֳ8רÜמד‘.
+msquid:S3008"ORename this field "USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(רצּ־8רÜמד‘.
+Ysquid:S2696"6Make the enclosing method "static" or remove this set.(״»–¶üÿÿÿÿ8רÜמד‘.
+Osquid:S1068",Remove this unused "PASSWORD" private field.(לפֽ–ûÿÿÿÿ8רÜמד‘.
+{squid:S3008
+"XRename this field "HISTORY_LIMIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘״‎ÿÿÿÿ8רÜמד‘.
+Fsquid:S1068"(Remove this unused "USER" private field.(רצּ־8רÜמד‘.
+†squid:S1450	"cRemove the "ISCHANGESTATUSENABLE" field and declare it as a local variable in the relevant methods.(ֱיÞÿÿÿÿÿ8רÜמד‘.
+squid:S1450
+"\Remove the "HISTORY_LIMIT" field and declare it as a local variable in the relevant methods.(‘״‎ÿÿÿÿ8רÜמד‘.
+vsquid:S3008"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(לפֽ–ûÿÿÿÿ8רÜמד‘.
+‚squid:S3008	"_Rename this field "ISCHANGESTATUSENABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ֱיÞÿÿÿÿÿ8רÜמד‘.

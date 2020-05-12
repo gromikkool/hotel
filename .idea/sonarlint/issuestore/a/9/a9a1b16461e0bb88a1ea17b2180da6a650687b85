@@ -1,0 +1,6 @@
+
+fsquid:S2259—"BA "NullPointerException" could be thrown; "room" is nullable here.(¥ÕíÂûÿÿÿÿ8¢Ş·ã‘.
+hsquid:S1192A"JDefine a constant instead of duplicating this literal "Can't get" 6 times.(ñ­˜¾8¢Ş·ã‘.
+`squid:S2259e"BA "NullPointerException" could be thrown; "room" is nullable here.(ƒô¸à8¢Ş·ã‘.
+Isquid:S1168Z"+Return an empty collection instead of null.(¥¹ï8¢Ş·ã‘.
+asquid:S2259u"CA "NullPointerException" could be thrown; "order" is nullable here.(»¾«8¢Ş·ã‘.

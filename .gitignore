@@ -1,0 +1,9 @@
+# Project exclude paths
+/API/target/
+/controller/target/
+/dto/target/
+/entity/target/
+/exceptions/target/
+/out/
+/repository-impl/target/
+/service-impl/target/
